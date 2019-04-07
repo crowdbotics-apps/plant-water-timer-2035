@@ -1,0 +1,3 @@
+rootProject.name = 'plant_water_timer_2035'
+
+include ':app'
